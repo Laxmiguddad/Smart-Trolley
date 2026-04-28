@@ -4,6 +4,15 @@
 
 This project uses RFID technology to automatically detect items and calculate total bill.
 
+🔴 Problem Statement
+
+Long billing queues and manual scanning in supermarkets make the checkout process slow, inefficient, and inconvenient for customers.
+
+
+🟢 Proposed Solution
+
+A smart shopping cart using RFID and Arduino that automatically scans items, calculates the total cost in real time, and displays it instantly—reducing waiting time and improving the shopping experience.
+
 ## 🧰 Components Used
 
 * Arduino Nano
